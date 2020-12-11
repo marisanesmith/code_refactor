@@ -21,9 +21,9 @@ The purpose of this project is to update a client's existing html and css files 
 ## Activate SEO link to navigate on website
 1. Add an ID tag to "Search Engine Optimization" to navigate to the Search Engine Optimization section
 
-[without seo id tag](assets/images/without-seo-tag.png)
+[without seo id tag](assets/images/without-seo-id-tag.png)
 
-[add seo id tag](assets/images/add-seo-tag.png)
+[add seo id tag](assets/images/add-seo-id-tag.png)
 
 ## Add Alt tags to HTML img
 1. Add description using alt tags in HTML to provide accessability for visually impaired users to understand the image
@@ -72,7 +72,7 @@ The purpose of this project is to update a client's existing html and css files 
 
 [Before combining CSS properties](assets/images/before-adding-services-css.png)  
 
-[New CSS property of services](assets/images/new-css-services-property)
+[New CSS property of services](assets/images/new-css-services-property.png)
 
 ## Resizing Image "digital-marketing-meeting"
 1. Resize the image to a lower pixel ratio to reduce loading time 
