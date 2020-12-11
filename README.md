@@ -50,3 +50,5 @@ What your doing with the project
 
 [html with divs](assets/images/html-without-articles.png)
 
+[html with article](assets/images/html-with-articles.png)
+
