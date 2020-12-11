@@ -1,16 +1,18 @@
 # code_refactor
 
-What your doing with the project
+The purpose of this project is to update a client's existing html and css files to reflect the same layout and design while creating more accessibility for the user. 
 
 ## Table of Contents
-* [Change Title](#changetitle)
+* [Change Title](#change-title)
 * [Activate SEO link to navigate on website](#activate-seo-link-to-navigate-on-website)
 * [Add Alt tags to HTML img](#Add-Alt-tags-to-HTML-img)
 * [Removing divs and adding sections in HTML](#Removing-divs-and-adding-sections-in-HTML)
 * [Removing divs and adding articles in HTML](#Removing-divs-and-adding-articles-in-HTML)
 * [Add class tag and change existing class tag in HTML to help consolidate CSS properties](#Add-class-tag-and-change-existing-class-tag-in-HTML-to-help-consolidate-CSS-properties)
 * [Combining CSS properties for the class identification of benefit](#Combining-CSS-properties-for-the-class-identification-of-benefit)
-* [Give the Website a URL](#steps-for-giving-the-website-a-stand-alone-url)
+*[Combining CSS properties for the class identification of services](#Combining-CSS-properties-for-the-class-identification-of-services)]
+* [Resizing Image digital marketing meeting](#Resizing-Image-digital-marketing-meeting)
+* [Providing a URL for the Website](#Providing-a-URL-for-the-Website)
 * [Credits](#credits)
 
 ## Change Title
@@ -64,10 +66,15 @@ What your doing with the project
 3. Save the new img as digital-marketing-meeting-2 and replace the original img
 
 
-## Steps for giving the website a stand alone URL
+## Providing a URL for the Website
 1. Open Github.com
+2. Create a new Repository
+3. Add a repository name and optional description
+4. Make the repo public and add a README file
+5. Create Repository
+6. Inside the repo go to settings, scroll down to GitHub Pages adn publish your site to the Branch: main
 
-[github screenshot]
+[GitHub Live Site](https://marisanesmith.github.io/code_refactor/)
 
 ## Credits
 
