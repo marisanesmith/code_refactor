@@ -10,7 +10,7 @@ The purpose of this project is to update a client's existing html and css files 
 * [Removing divs and adding articles in HTML](#Removing-divs-and-adding-articles-in-HTML)
 * [Add class tag and change existing class tag in HTML to help consolidate CSS properties](#Add-class-tag-and-change-existing-class-tag-in-HTML-to-help-consolidate-CSS-properties)
 * [Combining CSS properties for the class identification of benefit](#Combining-CSS-properties-for-the-class-identification-of-benefit)
-*[Combining CSS properties for the class identification of services](#Combining-CSS-properties-for-the-class-identification-of-services)]
+* [Combining CSS properties for the class identification of services](#Combining-CSS-properties-for-the-class-identification-of-services)
 * [Resizing Image digital marketing meeting](#Resizing-Image-digital-marketing-meeting)
 * [Providing a URL for the Website](#Providing-a-URL-for-the-Website)
 * [Credits](#credits)
@@ -21,8 +21,14 @@ The purpose of this project is to update a client's existing html and css files 
 ## Activate SEO link to navigate on website
 1. Add an ID tag to "Search Engine Optimization" to navigate to the Search Engine Optimization section
 
+[without seo id tag](assets/images/without-seo-tag.png)
+
+[add seo id tag](assets/images/add-seo-tag.png)
+
 ## Add Alt tags to HTML img
 1. Add description using alt tags in HTML to provide accessability for visually impaired users to understand the image
+
+[add img alt tags](assets/images/img-alt-tags.png)
 
 ## Removing divs and adding sections in HTML
 1. Identify groups of elements with similar properties 
@@ -45,6 +51,10 @@ The purpose of this project is to update a client's existing html and css files 
 2. Change class tag of online-reputation-management to class="services" 
 3. Change class tag of social-media-marketing to class="services" 
 
+[Before adding class tag of services](assets/images/before-class-tag-services.png)  
+
+[After changing class tag to services](assets/images/class-tag-services.png)
+
 
 ## Combining CSS properties for the class identification of benefit 
 1. Combined the CSS properties benefit-lead, benefit-brand & benefit-cost to be all inclusive of the class .benefit-all
@@ -59,6 +69,10 @@ The purpose of this project is to update a client's existing html and css files 
 1. Combined the CSS properties search-engine-optimization, online-reputation-management & social-media-marketing to be all inclusive of the class .services
 2. Combined the CSS properties search-engine-optimization h2,  online-reputation-management h2 & social-media-marketing h2 to be all inclusive of the class .services h2
 3. Combined the CSS properties search-engine-optimization img, online-reputation-management img & social-media-marketing img to be all inclusive of the class .services img
+
+[Before combining CSS properties](assets/images/before-adding-services-css.png)  
+
+[New CSS property of services](assets/images/new-css-services-property)
 
 ## Resizing Image "digital-marketing-meeting"
 1. Resize the image to a lower pixel ratio to reduce loading time 
