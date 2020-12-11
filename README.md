@@ -52,3 +52,8 @@ What your doing with the project
 
 [html with article](assets/images/html-with-articles.png)
 
+## Credits
+
+* William Chenausky (https://github.com/wchenausky)
+* W3 Schools (https://w3schools.com)
+
