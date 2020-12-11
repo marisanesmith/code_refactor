@@ -22,7 +22,31 @@ What your doing with the project
 2. Combined the CSS properties benefit-lead h3, benefit-brand h3 & benefit-cost h3 to be all inclusive of the class .benefit-all h3
 3. Combined the CSS properties benefit-lead img, benefit-brand img & benefit-cost img to be all inclusive of the class .benefit-all img
 
+[class with benefits not combined](assets/images/benefits-css-before.png)  
+
+[class with benefits combined](assets/images/benefits-css-after.png)
+
 ## Combining CSS properties for the class identification of services
 1. Combined the CSS properties search-engine-optimization, online-reputation-management & social-media-marketing to be all inclusive of the class .services
 2. Combined the CSS properties search-engine-optimization h2,  online-reputation-management h2 & social-media-marketing h2 to be all inclusive of the class .services h2
 3. Combined the CSS properties search-engine-optimization img, online-reputation-management img & social-media-marketing img to be all inclusive of the class .services img
+
+## Resizing Image "digital-marketing-meeting"
+1. Resize the image to a lower pixel ratio to reduce loading time 
+2. Perform this by saving the image in lightroom
+3. Save the new img as digital-marketing-meeting-2 and replace the original img
+
+
+## Removing divs and adding sections
+1. Identify groups of elements with similar properties 
+2. Re-labeled those element groups as sections instead of divs to allow more accessability for the user
+
+[html with divs](assets/images/html-with-divs.png)  
+
+[html with section](assets/images/html-with-sections.png)
+
+## Removing divs and adding articles
+1. Removed and renamed the divs within the individual sections to the tag articles for more accessibility for the user.
+
+[html with divs](assets/images/html-without-articles.png)
+
