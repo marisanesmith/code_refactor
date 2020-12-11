@@ -4,13 +4,19 @@ What your doing with the project
 
 ## Table of Contents
 * [Change Title](#changetitle)
+* [Activate SEO link to navigate on website](#activate-seo-link-to-navigate-on-website)
+* [Add Alt tags to HTML img](#Add-Alt-tags-to-HTML-img)
+* [Removing divs and adding sections in HTML](#Removing-divs-and-adding-sections-in-HTML)
+* [Removing divs and adding articles in HTML](#Removing-divs-and-adding-articles-in-HTML)
+* [Add class tag and change existing class tag in HTML to help consolidate CSS properties](#Add-class-tag-and-change-existing-class-tag-in-HTML-to-help-consolidate-CSS-properties)
+* [Combining CSS properties for the class identification of benefit](#Combining-CSS-properties-for-the-class-identification-of-benefit)
 * [Give the Website a URL](#steps-for-giving-the-website-a-stand-alone-url)
 * [Credits](#credits)
 
 ## Change Title
 1. Change the title of website to reflect the name of the company
 
-## How to get the Search Engine Optimization link to navigate through the post
+## Activate SEO link to navigate on website
 1. Add an ID tag to "Search Engine Optimization" to navigate to the Search Engine Optimization section
 
 ## Add Alt tags to HTML img
