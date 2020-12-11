@@ -4,6 +4,7 @@ What your doing with the project
 
 ## Table of Contents
 * [Change Title](#changetitle)
+* [Give the Website a URL](#stepsforgivingthewebsiteastandaloneurl)
 * [Credits](#credits)
 
 ## Change Title
