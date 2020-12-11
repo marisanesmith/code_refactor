@@ -2,14 +2,34 @@
 
 What your doing with the project
 
-## Steps for giving the website a stand alone URL
-1. Open Github.com
+## Table of Contents
+* [Change Title](#changetitle)
+* [Credits](#credits)
 
-[github screenshot]
+## Change Title
+1. Change the title of website to reflect the name of the company
 
 ## How to get the Search Engine Optimization link to navigate through the post
-1. Added in img alt tags to specific images in the post
-2. Add an ID tag to "Search Engine Optimization" to navigate to the Search Engine Optimization section
+1. Add an ID tag to "Search Engine Optimization" to navigate to the Search Engine Optimization section
+
+## Add Alt tags to HTML img
+1. Add description using alt tags in HTML to provide accessability for visually impaired users to understand the image
+
+## Removing divs and adding sections in HTML
+1. Identify groups of elements with similar properties 
+2. Re-labeled those element groups as sections instead of divs to allow more accessability for the user
+
+[html with divs](assets/images/html-with-divs.png)  
+
+[html with section](assets/images/html-with-sections.png)
+
+## Removing divs and adding articles in HTML
+1. Removed and renamed the divs within the individual sections to the tag articles for more accessibility for the user.
+
+[html with divs](assets/images/html-without-articles.png)
+
+[html with article](assets/images/html-with-articles.png)
+
 
 ## Add class tag and change existing class tag in HTML to help consolidate CSS properties
 1. Add class tag class="services" to Search Engine Optimization div 
@@ -37,20 +57,10 @@ What your doing with the project
 3. Save the new img as digital-marketing-meeting-2 and replace the original img
 
 
-## Removing divs and adding sections
-1. Identify groups of elements with similar properties 
-2. Re-labeled those element groups as sections instead of divs to allow more accessability for the user
+## Steps for giving the website a stand alone URL
+1. Open Github.com
 
-[html with divs](assets/images/html-with-divs.png)  
-
-[html with section](assets/images/html-with-sections.png)
-
-## Removing divs and adding articles
-1. Removed and renamed the divs within the individual sections to the tag articles for more accessibility for the user.
-
-[html with divs](assets/images/html-without-articles.png)
-
-[html with article](assets/images/html-with-articles.png)
+[github screenshot]
 
 ## Credits
 
