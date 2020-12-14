@@ -11,6 +11,7 @@ The purpose of this project is to update a client's existing html and css files 
 * [Add class tag and change existing class tag in HTML to help consolidate CSS properties](#Add-class-tag-and-change-existing-class-tag-in-HTML-to-help-consolidate-CSS-properties)
 * [Combining CSS properties for the class identification of benefit](#Combining-CSS-properties-for-the-class-identification-of-benefit)
 * [Combining CSS properties for the class identification of services](#Combining-CSS-properties-for-the-class-identification-of-services)
+* [Rearanging CSS Properties in the style.css sheet to reflect the html.index](#Rearanging-CSS-Properties-in-the-style-css-sheet-to-reflect-the-html-index)
 * [Resizing Image digital marketing meeting](#Resizing-Image-digital-marketing-meeting)
 * [Providing a URL for the Website](#Providing-a-URL-for-the-Website)
 * [Credits](#credits)
@@ -73,6 +74,17 @@ The purpose of this project is to update a client's existing html and css files 
 [Before combining CSS properties](assets/images/before-adding-services-css.png)  
 
 [New CSS property of services](assets/images/new-css-services-property.png)
+
+## Rearanging CSS Properties in the style.css sheet to reflect the html.index
+1. In style.css move .content class under .hero class
+2. In style.css move the .services, .services h2 and .services img class under .content class
+3. In style.css move the p class in between the .services h2 class and .float-left class
+
+[Before Rearranging CSS Properties](assets/images/before-rearrange-css.png)  
+
+[Before Rearranging CSS Properties Second Copy](assets/images/before-rearrange-css-2.png)  
+
+[After Rearranging CSS Properties](assets/images/after-rearrange-css.png)
 
 ## Resizing Image "digital-marketing-meeting"
 1. Resize the image to a lower pixel ratio to reduce loading time 
