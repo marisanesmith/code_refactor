@@ -100,7 +100,7 @@ The purpose of this project is to update a client's existing html and css files 
 5. Create Repository
 6. Inside the repo go to settings, scroll down to GitHub Pages adn publish your site to the Branch: main
 
-[GitHub Live Site](!https://marisanesmith.github.io/code_refactor/)
+[GitHub Live Site](https://marisanesmith.github.io/code_refactor/)
 
 ## Credits
 
